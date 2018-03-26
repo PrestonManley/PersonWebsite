@@ -1,0 +1,40 @@
+.nav-bar {
+  padding-top: 20px;
+}
+
+.nav-bar ul {
+  list-style: none;
+}
+
+.nav-bar li {
+  display: inline-block;
+}
+
+.nav-bar a {
+  text-decoration: none;
+  border: 1px solid black;
+  padding: 10px;
+}
+.page-body {
+  padding: 0 10%;
+  margin: 0 auto;
+  display: block;
+}
+
+.page-body .tableauPlaceholder{
+  min-width: 360px;
+}
+
+.footer {
+  padding: 60px 0;
+}
+
+.footer .links {
+  width: 50%;
+  margin: 0 auto;
+  display: block;
+}
+
+.footer a {
+  padding-right: 20px;
+}

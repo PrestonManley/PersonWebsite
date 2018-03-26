@@ -16,3 +16,26 @@
 .phone:hover {
   color: #1E90FF;
 }
+
+.inline-para {
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 0;  
+}
+
+.embedded-video {
+  max-width:600px;
+  width: 70vw;
+  height: 50vh;
+  position: relative;
+}
+
+.full-size-img {
+  width: 60%;
+  display: block;
+  margin: 0 auto;
+}
+
+.caption {
+  font-style: italic;
+}
